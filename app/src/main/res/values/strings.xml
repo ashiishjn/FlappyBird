@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sir Farts a Lot</string>
+    <string name="web_client_id">846655374669-nqa92oghq2vd0h9h8u6h1fl47ad0e1du.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1052046278843753</string>
+    <string name="fb_login_protocol_scheme">fb1052046278843753</string>
+    <string name="facebook_client_token">bd187f118e2be97f0b3c5ff99544f2e1</string>
+</resources>
